@@ -1,0 +1,10 @@
+/* target the image set */
+img {
+    width: 100%;
+}
+
+/* the larger the image fill fit */
+.avatar{
+    max-width: 320px;
+    border-radius: 50%;
+}
